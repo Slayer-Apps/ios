@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+   "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://ahmed.vega.usbx.me/filebrowser/api/raw/Drslayer%201.0.1.ipa?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoxLCJsb2NhbGUiOiJlbiIsInZpZXdNb2RlIjoibGlzdCIsInNpbmdsZUNsaWNrIjpmYWxzZSwicGVybSI6eyJhZG1pbiI6dHJ1ZSwiZXhlY3V0ZSI6dHJ1ZSwiY3JlYXRlIjp0cnVlLCJyZW5hbWUiOnRydWUsIm1vZGlmeSI6dHJ1ZSwiZGVsZXRlIjp0cnVlLCJzaGFyZSI6dHJ1ZSwiZG93bmxvYWQiOnRydWV9LCJjb21tYW5kcyI6W10sImxvY2tQYXNzd29yZCI6ZmFsc2UsImhpZGVEb3RmaWxlcyI6ZmFsc2V9LCJleHAiOjE2NDQxMzA1MDksImlhdCI6MTY0NDEyMzMwOSwiaXNzIjoiRmlsZSBCcm93c2VyIn0.fFnLEsb4_C11Ny6qH9kWVkVYXTypeCI5Oa8EGwtsy70&</string>
+                    </dict>
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<key>url</key>
+						<string>https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/07/c5/a6/07c5a6ec-d08f-7137-e639-a7da278a5941/AppIcon-1x_U007emarketing-85-220-6.png/114x114bb.jpg</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>full-size-image</string>
+						<key>url</key>
+						<string>https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/07/c5/a6/07c5a6ec-d08f-7137-e639-a7da278a5941/AppIcon-1x_U007emarketing-85-220-6.png/114x114bb.jpg</string>
+					</dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.lastsoul.dramaslayer</string>
+                    <key>bundle-version</key>
+                    <string>1.0.1</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>App</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
